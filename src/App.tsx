@@ -1,7 +1,3 @@
-import { useState } from 'react'
-import ReactDOM from "react-dom";
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import SudokuDisplay from "./components/SudokuDisplay";
 import './App.css'
 

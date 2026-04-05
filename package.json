@@ -1,5 +1,6 @@
 {
   "name": "sudoku",
+  "homepage": "https://fbeethoven.github.io/sudoku",
   "private": true,
   "version": "0.0.0",
   "type": "module",
